@@ -1,0 +1,56 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #e0b0ff; /* Light purple */
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+header h1 {
+    font-family: 'Playfair Display', serif; /* Or another elegant font */
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+header h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h3 {
+    color: #8a2be2; /* Blue violet */
+    font-family: 'Playfair Display', serif;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.love-story p, .wedding-details p, .rsvp p {
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #333;
+    color: white;
+    font-size: 0.9em;
+}
